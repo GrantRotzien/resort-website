@@ -1,0 +1,19 @@
+body {
+  background-color: #86e8ac;
+  text-align: center;
+  font-style: italic;
+  color: #725008;
+  font-size: 30px
+}
+
+p {
+  line-height: 0
+}
+
+ul {
+  list-style-position: inside;
+}
+
+ol {
+  list-style-position: inside;
+}
