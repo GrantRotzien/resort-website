@@ -12,8 +12,13 @@ p {
 
 ul {
   list-style-position: inside;
+  font-family: sans-serif;
 }
 
 ol {
   list-style-position: inside;
+  font-family:cursive;
+}
+h1{
+  font-size: 45px;
 }
